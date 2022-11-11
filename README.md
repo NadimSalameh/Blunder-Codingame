@@ -23,7 +23,7 @@
 
 # 🎦 Example 
 ![In this example, Blunder pockets $40 by going through the rooms 0, 2, 3 and 5 before leaving the building.](https://github.com/NadimSalameh/Blunder-Codingame/blob/main/Bender2-example.png)
-
+* In this example, Blunder pockets $40 by going through the rooms 0, 2, 3 and 5 before leaving the building.
 # 🔴Game Input and Output
 # Input
 
